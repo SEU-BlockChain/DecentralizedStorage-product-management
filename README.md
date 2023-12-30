@@ -1,3 +1,6 @@
+
+![应用设计开发流程](https://github.com/SEU-BlockChain/DecentralizedStorage-product-management/assets/98160560/8269da52-1a15-43fd-972f-92b6e1dbdf87)
+
 一、需求分析
 
 因为在大学的学习中，学习资料的丰富程度往往与初高中有天壤之别，这样就会给学生带来不舒适感。
