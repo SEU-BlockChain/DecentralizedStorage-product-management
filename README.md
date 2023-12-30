@@ -21,6 +21,7 @@
 
 信息结构图：
 
+
 [Share（信息结构图）.pdf](https://github.com/SEU-BlockChain/DecentralizedStorage-product-management/files/13798170/Share.pdf)
 
 三、测试成果
